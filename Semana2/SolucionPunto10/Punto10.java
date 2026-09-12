@@ -26,7 +26,7 @@ public class Punto10 {
         }
 
         // imprimir el arreglo
-        System.out.println(Arrays.toString(d));
+        System.out.println(Arrays.toString(b));
 
     }
 }
